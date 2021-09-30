@@ -1,7 +1,7 @@
 # Eyes-Animation
 A pair of eyes follow the mouse cursor as it moves.
   
-![Eyes Project Screenshot](https://github.com/jayeclark/Eyes-Animation/blob/main/Eyes-Screenshot.png?raw=true)
+![Eyes Project Screenshot](https://github.com/jayeclark/eyes/blob/main/eyes-animation.png?raw=true)
 
 ## Description
 This project demonstrates the ability to use Javascript to set web page styles. The eyes follow your mouse cursor as you move it around the screen
