@@ -16,7 +16,8 @@ This will run locally in your browser from index.html if you download all files 
 
 ### Planned Future Improvements
 - [ ] Change the math on the movement so that the eyes focus on a point 10" in front of the screen
-- [ ] Use CSS to add eyelashes and iris details
+- [X] Use CSS to add eyelashes
+- [ ] Use CSS to add iris details
 - [ ] Add pupil reflection that moves as the eyes move
 - [ ] Use CSS to add blinking eyelids
 
